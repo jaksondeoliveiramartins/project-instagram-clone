@@ -16,4 +16,4 @@
 
      - Nesta aplicação fullstack apliquei técnicas  de estilização CSS, manipulação com querySelector  e getElement, javascript e ferramentas como Nodejs, React e firebase aplicando em se regras de segurança no firebase.
 
-
+# Link:https://instagram-clone-fdfea.web.app/
