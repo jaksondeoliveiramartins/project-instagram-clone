@@ -6,8 +6,9 @@ const firebaseApp = firebase.initializeApp( {
   projectId: "woven-sensor-416923",
   storageBucket: "woven-sensor-416923.appspot.com",
   messagingSenderId: "833838519780",
-  appId: "1:833838519780:web:dc076291e8a9396ddf63f1",
-  measurementId: "G-1R9T2QYKRG"
+  appId: "1:833838519780:web:993b1058fdd48c61df63f1",
+  measurementId: "G-NVFV2WPBSN"
+ 
   });
 
 const db = firebase.firestore();
