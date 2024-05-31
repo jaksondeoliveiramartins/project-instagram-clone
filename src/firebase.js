@@ -1,13 +1,13 @@
 import firebase from 'firebase';
 
 const firebaseApp = firebase.initializeApp( {
-  apiKey: "AIzaSyBbcCo7QwPBiFqZ_ZKkoG2oO5ooKKYpuCo",
-  authDomain: "instagram-clone-fdfea.firebaseapp.com",
-  projectId: "instagram-clone-fdfea",
-  storageBucket: "instagram-clone-fdfea.appspot.com",
-  messagingSenderId: "435129863409",
-  appId: "1:435129863409:web:b832302145ee4badfc2d50",
-  measurementId: "G-0FPNPQND4P"
+  apiKey: "AIzaSyB0PPXFbDY01Vf3nRA63hDn22D0ws36P2Y",
+  authDomain: "woven-sensor-416923.firebaseapp.com",
+  projectId: "woven-sensor-416923",
+  storageBucket: "woven-sensor-416923.appspot.com",
+  messagingSenderId: "833838519780",
+  appId: "1:833838519780:web:dc076291e8a9396ddf63f1",
+  measurementId: "G-1R9T2QYKRG"
   });
 
 const db = firebase.firestore();
