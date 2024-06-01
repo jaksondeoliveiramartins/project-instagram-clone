@@ -15,6 +15,6 @@
      - Executar técnicas adquiridas com base dos estudos das linguagens HTML,CSS, e Javascript. 
 
      - Nesta aplicação fullstack apliquei técnicas  de estilização CSS, manipulação com querySelector  e getElement, javascript e ferramentas como Nodejs, React e firebase aplicando em se regras de segurança no firebase.
-     - Comando: firebase deploy --only hosting 
+    
 
 
