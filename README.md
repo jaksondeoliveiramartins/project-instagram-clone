@@ -7,7 +7,7 @@
    Desenvolver o projeto clone do Instagram.
 
    ## Objetivos do Projeto:
-   Um sistema de rede social que inclui funcionalidades para criar uma conta, fazer login, fazer upload de um post e comentar  o repectivo Post.
+   Um sistema de rede social que inclui funcionalidades para criar uma conta, fazer login, fazer upload de um post e comentar  o respectivo Post.
 
    [] Realizações feitas no Projeto:
      
