@@ -10,7 +10,6 @@
    Um sistema de rede social que inclui funcionalidades para criar uma conta, fazer login, fazer upload de um post e comentar  o respectivo Post.
 
    [] Realizações feitas no Projeto:
-     
      - Obter Experiência com as habilidades técnicas de desenvolvimento FrontEnd.
      - Executar técnicas adquiridas com base dos estudos das linguagens HTML,CSS, e Javascript. 
      - Nesta aplicação fullstack apliquei técnicas  de estilização CSS, manipulação com querySelector  e getElement, javascript e ferramentas como Nodejs, React e firebase aplicando em se regras de segurança no firebase.
